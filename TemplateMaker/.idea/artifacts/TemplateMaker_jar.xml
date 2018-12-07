@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TemplateMaker:jar">
+    <output-path>$PROJECT_DIR$/artifacts/TemplateMaker_jar</output-path>
+    <root id="archive" name="TemplateMaker.jar">
+      <element id="module-output" name="TemplateMaker" />
+      <element id="extracted-dir" path="$USER_HOME$/Fiji.app/jars/ij-1.52h.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
