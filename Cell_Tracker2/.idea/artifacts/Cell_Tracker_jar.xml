@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cell_Tracker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cell_Tracker_jar</output-path>
+    <root id="archive" name="Cell_Tracker.jar">
+      <element id="module-output" name="Cell_Tracker" />
+      <element id="extracted-dir" path="$USER_HOME$/Fiji.app/jars/ij-1.52h.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

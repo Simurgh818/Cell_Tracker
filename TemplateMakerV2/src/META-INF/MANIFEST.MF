@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: /Applications/Micro-Manager1.4/plugins/Micro-Manager/MMJ_.
+ jar
+Main-Class: ij.ImageJ
+
