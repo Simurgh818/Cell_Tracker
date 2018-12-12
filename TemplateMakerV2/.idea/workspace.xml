@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f184cc2-870d-4b13-8b29-4fb8841a73c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/TemplateMakerV2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/ij_1_52h.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParticleAnalyzer/.idea/artifacts/ParticleAnalyzer_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Cell_Tracker2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cell_Tracker2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TemplateMakerV2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TemplateMakerV2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleAnalyzer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticleAnalyzer/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleAnalyzer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticleAnalyzer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleAnalyzer/ParticleAnalyzer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticleAnalyzer/ParticleAnalyzer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleAnalyzer/src/main/java/ParticleAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticleAnalyzer/src/main/java/ParticleAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleAnalyzer/target/load-and-display-dataset-1.0.0-SNAPSHOT-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticleAnalyzer/target/load-and-display-dataset-1.0.0-SNAPSHOT-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticleAnalyzer/target/load-and-display-dataset-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticleAnalyzer/target/load-and-display-dataset-1.0.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemplateMaker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMaker/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +24,8 @@
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Template_Maker.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -32,15 +36,34 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GUIcomponents/GUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-240">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GUIcomponents/MakeCSV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="960" />
+  <component name="ProjectFrameBounds" extendedState="5">
     <option name="y" value="28" />
-    <option name="width" value="940" />
+    <option name="width" value="960" />
     <option name="height" value="1018" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,6 +72,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -60,12 +85,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TemplateMaker" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544229708922" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ParticleAnalyzer" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -105,16 +129,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="28" width="940" height="1018" extended-state="4" />
+    <frame x="0" y="28" width="960" height="1018" extended-state="5" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24887893" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3295325" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -125,6 +149,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3295325" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -142,6 +167,22 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUIcomponents/MakeCSV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUIcomponents/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
