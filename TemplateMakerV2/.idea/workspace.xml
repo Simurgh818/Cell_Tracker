@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f184cc2-870d-4b13-8b29-4fb8841a73c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ParticleAnalyzer/.idea/artifacts/ParticleAnalyzer_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Cell_Tracker2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cell_Tracker2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ParticleAnalyzer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticleAnalyzer/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ParticleAnalyzer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticleAnalyzer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ParticleAnalyzer/ParticleAnalyzer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticleAnalyzer/ParticleAnalyzer.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ParticleAnalyzer/src/main/java/ParticleAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticleAnalyzer/src/main/java/ParticleAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ParticleAnalyzer/target/load-and-display-dataset-1.0.0-SNAPSHOT-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticleAnalyzer/target/load-and-display-dataset-1.0.0-SNAPSHOT-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ParticleAnalyzer/target/load-and-display-dataset-1.0.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticleAnalyzer/target/load-and-display-dataset-1.0.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TemplateMaker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMaker/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,7 +55,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="5">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="y" value="28" />
     <option name="width" value="960" />
     <option name="height" value="1018" />
@@ -129,7 +123,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="960" height="1018" extended-state="5" />
+    <frame x="0" y="28" width="960" height="1018" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1875" />
