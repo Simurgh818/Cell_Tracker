@@ -7,6 +7,7 @@
  */
 
 import java.io.File;
+import java.nio.file.Path;
 import java.util.Arrays;
 
 import net.imagej.Dataset;
@@ -23,8 +24,9 @@ import ij.ImagePlus;
 public class ParticleAnalyzer {
 
     public static void main(final String... args) throws Exception {
+
 //      create the ImageJ application context with all available services
-		final ImageJ ij = new ImageJ();
+//		final ImageJ ij = new ImageJ();
 
 //		 ask the user for a file to open
 //		final File file = ij.ui().chooseFile(null, "open");
@@ -37,6 +39,7 @@ public class ParticleAnalyzer {
 
         // my script
 //        dataset.setImgPlus();
+
         System.out.println("Hello Champ!");
         File dir = new File("/home/sinadabiri/Dropbox/Images/robo6_2x2_103pixelOverlap");
 //        ij.ui().chooseFile(null,"open");
@@ -63,15 +66,14 @@ public class ParticleAnalyzer {
 
 //                    System.out.println(FileName);
                     
-                    String Save_Path = 
-                            "/home/sinadabiri/Dropbox/Images/robo6_2x2_103pixelOverlap/PlugIn_Practice_output/"+newFileName;
+                    String Save_Path =
+                            "/home/sinadabiri/Dropbox/Images/PlugIn_Practice_output/"+newFileName;
+                    System.out.println(Save_Path+'\n');
 
+//                    System.out.println(dir.getAbsolutePath());
 
-                    System.out.println(Save_Path);
+                    IJ.saveAs(imp,"tif", Save_Path);
 
-//                    IJ.saveAs(imp,"tif", "/home/sinadabiri/Dropbox/Images/robo6_2x2_103pixelOverlap/PlugIn_Practice_output/"+newFileName);
-
-                    imp.flush();
                 }
             }
 

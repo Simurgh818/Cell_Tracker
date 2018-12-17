@@ -13,10 +13,10 @@
 	</parent>
 
 	<groupId>imagej-tutorials</groupId>
-	<artifactId>load-and-display-dataset</artifactId>
+	<artifactId>ParticleAnalyzer</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 
-	<name>Load and Display a Dataset</name>
+	<name>Particle Analyzer</name>
 	<description>This example shows how to load and display a dataset using the ImageJ API.</description>
 	<url>https://github.com/[MY-ORG]/[MY-REPO]</url>
 	<inceptionYear>2012</inceptionYear>
